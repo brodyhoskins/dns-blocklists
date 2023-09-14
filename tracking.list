@@ -22,6 +22,7 @@ events.newsroom.bi
 firebase-dot-devsite-v2-prod.appspot.com
 firebase.google.com
 firebasedynamiclinks.googleapis.com
+firebaseinappmessaging.googleapis.com
 firebaselogging-pa.googleapis.com
 firebaseremoteconfig.googleapis.com
 hs-analytics.net
