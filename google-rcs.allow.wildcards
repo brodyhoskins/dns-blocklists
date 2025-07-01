@@ -2,6 +2,7 @@ content-storage-download.googleapis.com
 *.content-storage-download.googleapis.com
 content-storage-upload.googleapis.com
 *.content-storage-upload.googleapis.com
+fcm.googleapis.com
 jibecloud.net
 *.jibecloud.net
 jibe-edge.googleapis.com
