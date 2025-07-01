@@ -1,5 +1,7 @@
 jibecloud.net
 *.jibecloud.net
+messages.google.com
+*.messages.google.com
 rcs-copper-us.googleapis.com
 *.rcs-copper-us.googleapis.com
 rcs.telephony.goog
